@@ -2,3 +2,4 @@ frames/
 build/
 *.ppm
 simulation.mp4
+.cache/
